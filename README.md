@@ -4,7 +4,6 @@
 
 ## AI & Data Engineer
 
----
 
 Computer Science graduate student at Northeastern University with 2+ years of experience building production-scale AI systems, distributed data pipelines, and cloud-native platforms. Proven track record delivering scalable data infrastructure and enterprise analytics solutions for global clients including Nike and L’Oréal. Experienced in designing end-to-end pipelines spanning data ingestion, vector embeddings, and high-performance retrieval systems. Skilled in leveraging AWS and GCP to improve system reliability, scalability, and operational efficiency, with the ability to bridge advanced AI research and robust production deployment.
 
