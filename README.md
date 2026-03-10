@@ -8,10 +8,12 @@
 
 Software Engineer and CS graduate student at Northeastern University with 2+ years of experience building production-scale AI systems, distributed data pipelines, and cloud-native platforms. Proven track record delivering scalable data infrastructure and enterprise analytics solutions for global clients including Nike and L’Oréal. Experienced in designing end-to-end pipelines spanning data ingestion, vector embeddings, and high-performance retrieval systems. Skilled in leveraging AWS and GCP to improve system reliability, scalability, and operational efficiency, with the ability to bridge advanced AI research and robust production deployment.
 
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-kumar-v)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pr4deepkumar.github.io)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepkumarvijayakumaran@gmail.com)
+</div>
 
 ---
 
