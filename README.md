@@ -1,7 +1,6 @@
 <div align="center">
 
-## Hello There, I'm Pradeep Kumar Vijayakumaran 👋
-
+# Hello There, I'm Pradeep Kumar Vijayakumaran 👋
 ## AI & Data Engineer | MSCS @ Northeastern University
 </div>
 
