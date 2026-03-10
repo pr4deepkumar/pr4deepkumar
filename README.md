@@ -42,13 +42,14 @@ Computer Science graduate student at Northeastern University with 2+ years of ex
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Polars](https://img.shields.io/badge/-Polars-CD792C?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-56B9FF?style=for-the-badge&logo=snowflake&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-CD792C?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ---
 
