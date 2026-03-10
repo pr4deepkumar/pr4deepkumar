@@ -31,7 +31,6 @@ Computer Science graduate student at Northeastern University with 2+ years of ex
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-EC0000?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B35?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge)
