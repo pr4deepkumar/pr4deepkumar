@@ -31,6 +31,8 @@ AI & Data Engineer experienced in architecting scalable data pipelines and cloud
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-FDB515?style=for-the-badge&logo=vllm&logoColor=black)
+![AWQ](https://img.shields.io/badge/AWQ-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![PEFT/LoRA](https://img.shields.io/badge/PEFT%20%2F%20LoRA-8A2BE2?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -43,7 +45,7 @@ AI & Data Engineer experienced in architecting scalable data pipelines and cloud
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 
-### Backend & DevOps
+### Web & DevOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -57,5 +59,6 @@ AI & Data Engineer experienced in architecting scalable data pipelines and cloud
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
 
 </div>
