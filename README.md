@@ -20,7 +20,7 @@ AI & Data Engineer experienced in architecting scalable data pipelines and cloud
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,7 +31,7 @@ AI & Data Engineer experienced in architecting scalable data pipelines and cloud
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PEFT/LoRA](https://img.shields.io/badge/PEFT%20%2F%20LoRA-8A2BE2?style=for-the-badge)
 ![vLLM](https://img.shields.io/badge/vLLM-FDB515?style=for-the-badge&logo=vllm&logoColor=black)
-![AWQ](https://img.shields.io/badge/AWQ-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![AWQ](https://img.shields.io/badge/AWQ-76B900?style=for-the-badge)
 ![Triton](https://img.shields.io/badge/Triton-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge)
 ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-412991?style=for-the-badge)
