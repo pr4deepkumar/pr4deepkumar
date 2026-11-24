@@ -5,7 +5,7 @@
 
 <div align="left">
 
-AI & Data Engineer experienced in architecting scalable data pipelines and cloud infrastructure on AWS, GCP and Kubernetes for global enterprise clients. Proficient in ETL/ELT, RAG, vector databases, LLM observability, and GPU inference optimization down to custom Triton kernels. MSCS at Northeastern University, focused on fast, reliable, production-grade AI systems.
+AI & Data Engineer experienced in architecting distributed data pipelines and cloud infrastructure on AWS, GCP and Kubernetes for global clients like Nike and L'Oréal. Proficient in ETL/ELT, RAG, vector databases, LLM observability, and GPU inference optimization down to custom Triton kernels. MSCS at Northeastern, focused on fast, reliable, production-grade AI systems.
 
 <div align="center">
 
