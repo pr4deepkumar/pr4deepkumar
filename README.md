@@ -65,7 +65,6 @@ AI & Data Engineer experienced in architecting distributed data pipelines and cl
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZwogCiAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogIHdpZHRoPSIyNCIKICBoZWlnaHQ9IjI0IgogIHZpZXdCb3g9IjAgMCAyNCAyNCIKICBmaWxsPSJub25lIgogIHN0cm9rZT0iI2ZmZiIKICBzdHJva2Utd2lkdGg9IjIiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIgogIHN0cm9rZS1saW5lam9pbj0icm91bmQiCj4KICA8cGF0aCBkPSJtMTcgMTQgMyAzLjNhMSAxIDAgMCAxLS43IDEuN0g0LjdhMSAxIDAgMCAxLS43LTEuN0w3IDE0aC0uM2ExIDEgMCAwIDEtLjctMS43TDkgOWgtLjJBMSAxIDAgMCAxIDggNy4zTDEyIDNsNCA0LjNhMSAxIDAgMCAxLS44IDEuN0gxNWwzIDMuM2ExIDEgMCAwIDEtLjcgMS43SDE3WiIgLz4KICA8cGF0aCBkPSJNMTIgMjJ2LTMiIC8%2BCjwvc3ZnPg%3D%3D)
-![Atlas Vector Search](https://img.shields.io/badge/Atlas%20Vector%20Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 </div>
